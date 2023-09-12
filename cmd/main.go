@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cashier/cashier"
+	"cashier"
 	"fmt"
 	"log"
 	"net/http"
