@@ -1,3 +1,3 @@
-module lru-cache
+module cashier
 
 go 1.21.0
